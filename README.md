@@ -1,6 +1,6 @@
 # Machine Learning - Disaster Prediction and Classification with Ensemble Models
 
-This project focuses on leveraging machine learning models—specifically ensemble methods like Random Forest and Gradient Boosting—to predict and classify natural disasters such as floods, hurricanes, and wildfires. Using FEMA disaster data, we preprocess features, address class imbalance through synthetic sampling, and compare multiple models to assess predictive performance.
+This project utilizes machine learning models—specifically, ensemble methods such as Random Forest and Gradient Boosting- to predict and classify natural disasters, including floods, hurricanes, and wildfires. Using FEMA disaster data, we preprocess features, address class imbalance through synthetic sampling, and compare multiple models to assess predictive performance.
 
 ## 🚀 Key Features
 
